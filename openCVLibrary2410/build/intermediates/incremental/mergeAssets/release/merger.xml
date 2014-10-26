@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/spectralnischay/AndroidStudioProjects/FacialDetectionAssisstant/openCVLibrary2410/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/spectralnischay/AndroidStudioProjects/FacialDetectionAssisstant/openCVLibrary2410/src/release/assets" />
+    </dataSet>
+
+</merger>
